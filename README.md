@@ -2,7 +2,7 @@
 
 
 
-:pencil: 학력
+:pencil: Education
 ---
 동양미래대학교 컴퓨터공학과 졸업
 
@@ -11,7 +11,9 @@
 ---
 [Blog](https://velog.io/@rhkddud9531/posts)
 
-
+:movie_camera: Tech Stacks
+---
+[android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 <!--
 **KimKwangYoung/KimKwangYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

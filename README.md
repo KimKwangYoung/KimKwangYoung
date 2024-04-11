@@ -9,7 +9,7 @@
 
 :bulb: SNS
 ---
-Blog : [here](https://velog.io/@rhkddud9531/posts)
+Blog : [Velog](https://velog.io/@rhkddud9531/posts)
 
 
 <!--

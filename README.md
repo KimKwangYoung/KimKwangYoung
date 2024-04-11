@@ -9,8 +9,7 @@
 
 :bulb: History
 ---
-<a href="https://velog.io/@yeoonnii"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@rhkddud9531/posts)
+<a href="https://velog.io/@rhkddud9531"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@rhkddud9531/posts"/></a>
 ![portpolio](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/kwangyoung/e1f61860d06445998b6c21e0154c7220)
 
 :movie_camera: Tech Stacks

@@ -7,6 +7,11 @@
 동양미래대학교 컴퓨터공학과 졸업
 
 
+:bulb: SNS
+---
+Click[here]https://velog.io/@rhkddud9531/posts
+
+
 <!--
 **KimKwangYoung/KimKwangYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

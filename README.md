@@ -7,9 +7,9 @@
 ---
 동양미래대학교 컴퓨터공학과 졸업
 
-:bulb: SNS
+:bulb: History
 ---
-[Blog](https://velog.io/@rhkddud9531/posts)
+![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)
 
 :movie_camera: Tech Stacks
 ---

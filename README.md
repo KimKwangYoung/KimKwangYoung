@@ -9,7 +9,7 @@
 
 :bulb: SNS
 ---
-Click[here]https://velog.io/@rhkddud9531/posts
+Click[here](https://velog.io/@rhkddud9531/posts)
 
 
 <!--

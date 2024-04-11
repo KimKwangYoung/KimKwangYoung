@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:49bf58,100:225c29&text=Hi!&fontColor=ffffff&desc=welcome%20to%20my%20github&textBg=true&descAlign=60&fontAlign=40&fontSize=40)
 
-:pencil: Education
+
+
+:pencil: 학력
+***
+동양미래대학교 컴퓨터공학과 졸업
+
+
 <!--
 **KimKwangYoung/KimKwangYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

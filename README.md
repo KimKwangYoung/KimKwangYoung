@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:49bf58,100:225c29&text=Hi!&fontColor=ffffff&desc=welcome%20to%20my%20github&textBg=true&descAlign=60&fontAlign=40&fontSize=40)
 
-안녕하세요! 
-안드로이드와 플러터를 개발하고 있는 김광영입니다 :wave:
-
-불필요하게 긴 코드를 줄이는 데 흥미를 느끼며 유지보수 증가를 위한 좋은 아키텍처를 설계하는 데 관심이 많습니다.
 
 :bulb: History
 ---

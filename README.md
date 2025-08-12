@@ -16,16 +16,7 @@
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
 
-:books: Main Projects
----
-[웰카] 신차패키지 및 차량 구입 플랫폼
-https://play.google.com/store/search?q=%EC%9B%B0%EC%B9%B4&c=apps&hl=ko-KR
-
-[KGM 디지털키 SDK] 차량 제어를 위한 BLE&NFC SDK 제작
-https://play.google.com/store/apps/details?id=com.symc.ccs&hl=ko-KR
-
-[포아브] 일상 속 기부 및 환경운동 플랫폼
-https://play.google.com/store/apps/details?id=com.rightcode.foav&hl=ko-KR
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimKwangYoung)](https://github.com/KimKwangYoung/github-readme-stats)
 
 
 <!--
